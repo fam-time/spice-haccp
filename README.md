@@ -1,1 +1,1 @@
-# spice-haccp
+# SPICE for HACCP
