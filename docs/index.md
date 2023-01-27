@@ -2,6 +2,7 @@
 SPICE for HACCPは、〜T.B.D〜
 #### お知らせ
 - 2023-02-xx: SPICE for HACCPの一般公開を開始しました
+
 ### 本サービスのご利用について
 SPICE for HACCPをご利用の際は以下の規約への同意が必要となります。
 - [利用規約](https://fam-time.github.io/spice-haccp/terms.html)
