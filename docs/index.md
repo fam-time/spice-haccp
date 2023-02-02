@@ -1,5 +1,6 @@
 # About SPICE for HACCP
-SPICE for HACCPは、〜T.B.D〜
+
+SPICE for HACCPは、〇〇描きます。〜T.B.D〜
 
 #### お知らせ
 - 2023-02-xx: SPICE for HACCPの一般公開を開始しました
