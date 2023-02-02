@@ -19,6 +19,16 @@ SPICE for HACCPで作成したデータは、利用者の端末にのみ保存�
 #### ご利用はこちらから
 [SPICE for HACCP](https://haccp.mflow.dev/)
 
+初めてご利用の方は[チュートリアル](https://fam-time.github.io/spice-haccp/tutorials/1.html)で使い方を学べます。
+
+##### 推奨環境
+- **OS**
+macOS / Windows
+
+- **ブラウザ**
+最新版のChromeまたはEdge(Windows)
+
+
 #### フィードバックのお願い
 サービスの改善のため利用者の皆様に要望や不具合発見のフィードバックをお願いしています。
 - [GitHub](https://github.com/fam-time/spice-haccp/issues)
