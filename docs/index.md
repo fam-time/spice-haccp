@@ -23,10 +23,10 @@ SPICE for HACCPで作成したデータは、利用者の端末にのみ保存�
 初めてご利用の方は[チュートリアル](https://fam-time.github.io/spice-haccp/tutorials/1.html)で使い方を学べます。
 
 ##### 推奨環境
-- **OS**
+- **OS**  
 macOS / Windows
 
-- **ブラウザ**
+- **ブラウザ**  
 最新版のChromeまたはEdge(Windows)
 
 
