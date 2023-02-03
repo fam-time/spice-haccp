@@ -7,7 +7,7 @@ SPICE for HACCPは、〇〇描きます。〜T.B.D〜
 
 ### 本サービスのご利用について
 SPICE for HACCPをご利用の際は以下の規約への同意が必要となります。
-- [利用規約](https://fam-time.github.io/spice-haccp/terms.html)
+- [利用規約](terms.html)
 - [プライバシーポリシー](https://fam-time.com/privacypolicy/)
 
 #### 利用料金
@@ -20,7 +20,7 @@ SPICE for HACCPで作成したデータは、利用者の端末にのみ保存�
 #### ご利用はこちらから
 [SPICE for HACCP](https://haccp.spice.dev/)
 
-初めてご利用の方は[チュートリアル](https://fam-time.github.io/spice-haccp/tutorials/1.html)で使い方を学べます。
+初めてご利用の方は[チュートリアル](tutorials/1.html)で使い方を学べます。
 
 ##### 推奨環境
 - **OS**  
@@ -36,4 +36,4 @@ macOS / Windows
 - [Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdw__1envouGR3bsg_Al9KzSEP_n0PDbwLXXCDECX2v5MyR2Q/viewform?usp=sf_link)
 
 ### 使い方
-[SPICE for HACCP ヘルプ](https://fam-time.github.io/spice-haccp/help.html)
+[SPICE for HACCP ヘルプ](help.html)
