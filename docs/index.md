@@ -18,7 +18,7 @@ SPICE for HACCPで作成したデータは、利用者の端末にのみ保存�
 サーバー側では利用者が作成したデータの保存は行いません。データのセーブ（ファイル保存）およびバックアップは利用者の責任にて行ってください。
 
 #### ご利用はこちらから
-[SPICE for HACCP](https://haccp.mflow.dev/)
+[SPICE for HACCP](https://haccp.spice.dev/)
 
 初めてご利用の方は[チュートリアル](https://fam-time.github.io/spice-haccp/tutorials/1.html)で使い方を学べます。
 
