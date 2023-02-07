@@ -13,13 +13,13 @@
 
 同様の操作で操作ノードも作成することができます。
 
-### 011食材を記入する
+### 011 食材を記入する
 
 食材ノードの編集状態で、食材名を入力します。
 
 <img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1675407265/SPICE/011EditNode_sgwskz.gif">
 
-### 012手順ノード（＋Edge）を追加する
+### 012　手順ノード（＋Edge）を追加する
 
 a.マウスで追加する方法
 
@@ -49,13 +49,13 @@ Nodeを選択すると、表示される下の部分に黒い四角■部分に�
 
 <img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1675744421/SPICE/022DeleteEdge02_hieomn.gif">
 
-### 023Edgeの間にNodeを追加する
+### 023　Edgeの間にNodeを追加する
 
 NodeとNodeの間のEdgeを選択し、`＋`のアイコンをクリックすると、間にNodeが追加されます。
 
 <img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1675744549/SPICE/023AddNodeBetweenEdges02_yxntve.gif">
 
-### 024複数の組み合わせ（NodeとEdge）をコピーする
+### 024　複数の組み合わせ（NodeとEdge）をコピーする
 
 マウスをドラッグ＆ドロップすると、複数の組み合わせ（NodeとEdge）を選択できます。
 その状態で、右クリックするとメニューが表示されるのでコピーを選ぶと、その組み合わせがコピーされます。
@@ -83,7 +83,7 @@ CCPのNodeを選択し、`重要管理点`を選択状態にすると、CCPと�
 
 <img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1675407263/SPICE/032EditCCP_drbirn.gif">
 
-### 033自動採番する
+### 033　自動採番する
 
 任意のNodeを選択した状態で、右側の`基本情報`タブメニューの中から、一番上のNo.の横の`全体を自動採番する`アイコンをクリックすると、全てのNodeに番号が採番されます。
 
@@ -94,9 +94,9 @@ CCPのNodeを選択し、`重要管理点`を選択状態にすると、CCPと�
 
 ---
 
-## 04Nodeの危害要因分析を設定する
+## 04　Nodeの危害要因分析を設定する
 
-### 041危害要因分析の入力項目【参考情報】
+### 041　危害要因分析の入力項目【参考情報】
 
 危害要因分析では、それぞれの工程ごとにどのような危害要因が潜んでいるのか分析します。
 
@@ -109,7 +109,7 @@ CCPのNodeを選択し、`重要管理点`を選択状態にすると、CCPと�
 
 (厚生労働省HACCP導入のための手引書より引用)
 
-### 042危害要因分析の入力
+### 042　危害要因分析の入力
 
 Nodeを選択した状態で、右側のメニューから、`危害要因分析`タブを選択してください。
 
@@ -124,19 +124,19 @@ Nodeを選択した状態で、右側のメニューから、`危害要因分析
 
 <img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1675745775/SPICE/042-3FillHAList_kmj0pf.png">
 
-### 043危害要因分析データのダウンロード
+### 043　危害要因分析データのダウンロード
 
 作成した危害要因分析のデータは、要因別（生物的な要因、化学的な要因、物理的な要因）
 
 <img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1675745775/SPICE/043DlHA_u2w9zn.png">
 
-### 044危害要因分析データのアップロード
+### 044　危害要因分析データのアップロード
 
 一度ダウンロードした危害要因分析のデータはアップロードすることができます。
 
 <img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1675745775/SPICE/044UpHA_jiqi1l.png">
 
-### 045危害要因分析をExcelダウンロードする
+### 045　危害要因分析をExcelダウンロードする
 
 右上のExcel↓印のアイコンをクリックすると、危害要因分析の内容をExcel形式でダウンロードすることができます。
 
@@ -144,7 +144,7 @@ Nodeを選択した状態で、右側のメニューから、`危害要因分析
 
 ---
 
-## 05保存と読み込み
+## 05　保存と読み込み
 
 ### 051 保存する
 
@@ -161,6 +161,8 @@ Nodeを選択した状態で、右側のメニューから、`危害要因分析
 作成したマテリアルフローが描写されます。
 
 <img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1675745775/SPICE/052Up_yxjttt.png">
+
+---
 
 以上がSPICE for HACCPの基本的な使い方です。
 ご利用の中で気づいた点や、ご要望については、是非ともフィードバックください！！！
