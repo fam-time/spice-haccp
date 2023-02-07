@@ -33,6 +33,8 @@ Node編集中に`Tab`キーを押すと、`+`アイコンが黄色く表示さ�
 
 <img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1675687267/SPICE/012b_AddActionNode02_ivqcox.gif">
 
+---
+
 ## 02 Edgeを追加する
 
 ### 021 Edgeを追加する
@@ -62,6 +64,7 @@ NodeとNodeの間のEdgeを選択し、`＋`のアイコンをクリックする
 
 <img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1675747324/SPICE/024PartsCopyPaste_sqjvfd.gif">
 
+---
 
 ## 03 Nodeの基本情報を設定する
 ### 031 ノードの区域、作業エリアを設定する
@@ -86,9 +89,10 @@ CCPのNodeを選択し、`重要管理点`を選択状態にすると、CCPと�
 
 <img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1675407259/SPICE/033_Numbering02_pwq5s6.gif">
 
-:::note info
+
 ⚠️ 自動採番は、Nodeの位置に応じて左上から採番されます。
-:::
+
+---
 
 ## 04Nodeの危害要因分析を設定する
 
@@ -103,7 +107,7 @@ CCPのNodeを選択し、`重要管理点`を選択状態にすると、CCPと�
 1. そして、最終的に全体のプロセスの中でCCPかどうかをチェックします。
 
 
-厚生労働省HACCP導入のための手引書より引用
+(厚生労働省HACCP導入のための手引書より引用)
 
 ### 042危害要因分析の入力
 
@@ -138,6 +142,7 @@ Nodeを選択した状態で、右側のメニューから、`危害要因分析
 
 <img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1675745775/SPICE/053DlHAxls_vlpcpb.png">
 
+---
 
 ## 05保存と読み込み
 
