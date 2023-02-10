@@ -4,12 +4,13 @@
 ## チュートリアル
 - [はじめてのSPICE for HACCP](tutorials/1.html)
 
-# 基本的な使い方
+## 基本的な使い方
+
 ## 01 Nodeを作る
 
 左側の`食材・調味料ノード`を、右側の空白領域にドラッグ＆ドロップすると、新たな食材ノードが作成されます。
 
-<img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1675687232/SPICE/010MakeNode03_o8efxe.gif">
+<img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1676001118/SPICE/010MakeNode04_bhou6b.gif">
 
 同様の操作で操作ノードも作成することができます。
 
@@ -73,6 +74,12 @@ Nodeを選択し、右側の`区域`を選択し、さらに`作業エリア`の
 
 <img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1675407267/SPICE/031EditArea_whvzdb.gif">
 
+**TIPS**
+区域と作業エリアの設定は、複数の工程を選択して一括で変更することもできます。
+
+<img width="400" src="https://res.cloudinary.com/fam-time/image/upload/v1676015549/SPICE/032EditAreas01_ynsb9h.gif">
+
+
 ### 032 CCPを設定する
 
 CCPのNodeを選択し、`重要管理点`を選択状態にすると、CCPとして指定されます。
@@ -87,7 +94,7 @@ CCPのNodeを選択し、`重要管理点`を選択状態にすると、CCPと�
 
 任意のNodeを選択した状態で、右側の`基本情報`タブメニューの中から、一番上のNo.の横の`全体を自動採番する`アイコンをクリックすると、全てのNodeに番号が採番されます。
 
-<img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1675407259/SPICE/033_Numbering02_pwq5s6.gif">
+<img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1676015927/SPICE/033_Numbering03_nz1zgo.gif">
 
 
 ⚠️ 自動採番は、Nodeの位置に応じて左上から採番されます。
@@ -140,7 +147,7 @@ Nodeを選択した状態で、右側のメニューから、`危害要因分析
 
 右上のExcel↓印のアイコンをクリックすると、危害要因分析の内容をExcel形式でダウンロードすることができます。
 
-<img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1675745775/SPICE/053DlHAxls_vlpcpb.png">
+<img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1676007780/SPICE/053HAxls02_olrt9r.png">
 
 ---
 
@@ -148,21 +155,31 @@ Nodeを選択した状態で、右側のメニューから、`危害要因分析
 
 ### 051 保存する
 
-右上の↓印のアイコンをクリックしてください。
+右上の↓印の`保存`アイコンをクリックしてください。
 
-作成したマテリアルフローのデータがダウンロードされます。
+ファイル名を指定して保存できます。
 
-<img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1675745775/SPICE/051Save_y61njg.png">
+<img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1676007780/SPICE/051Save02_mat0nz.png">
 
 ### 052 保存済みのJsonを読み込む
 
-右上の↑印のアイコンをクリックし、描写させたいファイルを選択してください。
+右上の↑印の`読込`アイコンをクリックし、描写させたいファイルを選択してください。
 
 作成したマテリアルフローが描写されます。
 
-<img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1675745775/SPICE/052Up_yxjttt.png">
+<img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1676007780/SPICE/052Open02_gymz0t.png">
+
+### 053 データをクリアする。
+
+右上の`NEW`のアイコンをクリックすると、現在のフローをクリアします。
+事前にファイルに保存しておくことをお勧めします。
+
+<img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1676007780/SPICE/054Clear01_dnhyzj.png">
+
+クリック後に確認用のポップアップが表示されますので`OK`を選択して下さい。
 
 ---
 
 以上がSPICE for HACCPの基本的な使い方です。
+
 ご利用の中で気づいた点や、ご要望については、是非ともフィードバックください！！！
