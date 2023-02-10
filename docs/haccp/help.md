@@ -77,6 +77,7 @@ Nodeを選択し、右側の`区域`を選択し、さらに`作業エリア`の
 **TIPS**
 区域と作業エリアの設定は、複数の工程を選択して一括で変更することもできます。
 
+<img width="400" src="https://res.cloudinary.com/fam-time/image/upload/v1676015549/SPICE/032EditAreas01_ynsb9h.gif">
 
 
 ### 032 CCPを設定する
