@@ -1,8 +1,8 @@
-# SPICE for HACCP ヘルプ
+# SPiCE for HACCP ヘルプ
 - [よくある質問](faq.html)
 
 ## チュートリアル
-- [はじめてのSPICE for HACCP](tutorials/1.html)
+- [はじめてのSPiCE for HACCP](tutorials/1.html)
 
 ## 基本的な使い方
 
@@ -180,6 +180,6 @@ Nodeを選択した状態で、右側のメニューから、`危害要因分析
 
 ---
 
-以上がSPICE for HACCPの基本的な使い方です。
+以上がSPiCE for HACCPの基本的な使い方です。
 
 ご利用の中で気づいた点や、ご要望については、是非ともフィードバックください！！！
