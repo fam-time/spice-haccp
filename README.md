@@ -7,6 +7,14 @@ SPiCE for HACCPについては、[こちら](https://pages.spice.dev/haccp/)を�
 
 ## このリポジトリについて
 このリポジトリでは、SPiCE for HACCPで利用可能なテンプレートやサンプルを公開しています。
-### テンプレート
+### 利用規約
+このリポジトリにあるデータを利用する場合、SPiCE for HACCPと同様の以下の規約に同意されたものとみなします。
 
-### サンプル
+- [利用規約](https://pages.spice.dev/haccp/terms.html)
+
+### 公開データ
+#### テンプレート /[templates](./templates/)
+SPiCE for HACCPでは事前に定義済みのファイルからフローを任意の場所に挿入することができます。よくある食材のテンプレートを用意していますのでご利用ください。
+
+#### サンプル /[samples](./samples/)
+SPiCE for HACCPを使って、どの様なフローダイアグラムが作成できるかをサンプルを使って確認することができます。
