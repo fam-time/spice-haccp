@@ -10,7 +10,7 @@
 
 SPiCE for HACCPを開始すると、以下のような画面になります。
 
-<image width=500 src="https://res.cloudinary.com/fam-time/image/upload/v1676428574/SPICE/WholeView_wea41u.png">
+<img width=500 src="https://res.cloudinary.com/fam-time/image/upload/v1676428574/SPICE/WholeView_wea41u.png">
 
 画面の大きな構成としては、以下の4つになります。
 - Node部品（左上）
@@ -24,22 +24,21 @@ SPiCE for HACCPを開始すると、以下のような画面になります。
 
 フローの表示領域は、　`スペース＋マウス操作`や、トラックバッドのダブルパットなどで移動することができます。
 
-<image width=400 src="https://res.cloudinary.com/fam-time/image/upload/v1676428674/SPICE/mobearea001_qxciq4.gif">
-
+<img width=400 src="https://res.cloudinary.com/fam-time/image/upload/v1676428674/SPICE/mobearea001_qxciq4.gif">
 
 また、フロー表示領域の右下の画面で操作することもできます。
 
-<image width=400 src="https://res.cloudinary.com/fam-time/image/upload/v1676428675/SPICE/mobearea002_f6aamm.gif">
+<img width=400 src="https://res.cloudinary.com/fam-time/image/upload/v1676428675/SPICE/mobearea002_f6aamm.gif">
 
 #### 013 表示領域の拡大縮小
 
 フロー表示領域は、`Ctrl(Command)+スクロール`で拡大／縮小させることができます。
 
-<image width=400 src="https://res.cloudinary.com/fam-time/image/upload/v1676428675/SPICE/Zoom001_gje2ys.gif">
+<img width=400 src="https://res.cloudinary.com/fam-time/image/upload/v1676428675/SPICE/Zoom001_gje2ys.gif">
 
 また、フロー表示領域の左下の`＋`/`ー`ボタンでも、拡大／縮小させることができます。
 
-<image width=400 src="https://res.cloudinary.com/fam-time/image/upload/v1676428676/SPICE/Zoom002_twkth3.gif">
+<img width=400 src="https://res.cloudinary.com/fam-time/image/upload/v1676428676/SPICE/Zoom002_twkth3.gif">
 
 ### 02 Nodeを作る
 
@@ -114,7 +113,6 @@ Nodeを選択し、右側の`区域`を選択し、さらに`作業エリア`の
 
 <img width="400" src="https://res.cloudinary.com/fam-time/image/upload/v1676015549/SPICE/032EditAreas01_ynsb9h.gif">
 
-
 #### 042 CCPを設定する
 
 CCPのNodeを選択し、`重要管理点`を選択状態にすると、CCPとして指定されます。
@@ -130,7 +128,6 @@ CCPのNodeを選択し、`重要管理点`を選択状態にすると、CCPと�
 任意のNodeを選択した状態で、右側の`基本情報`タブメニューの中から、一番上のNo.の横の`全体を自動採番する`アイコンをクリックすると、全てのNodeに番号が採番されます。
 
 <img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1676015927/SPICE/033_Numbering03_nz1zgo.gif">
-
 
 ⚠️ 自動採番は、Nodeの位置に応じて左上から採番されます。
 
