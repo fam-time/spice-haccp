@@ -6,7 +6,42 @@
 
 ## 基本的な使い方
 
-### 01 Nodeを作る
+### 01 画面の操作
+
+SPiCE for HACCPを開始すると、以下のような画面になります。
+
+<image width=500 src="https://res.cloudinary.com/fam-time/image/upload/v1676428574/SPICE/WholeView_wea41u.png">
+
+画面の大きな構成としては、以下の4つになります。
+- Node部品（左上）
+- フロー表示領域（中央上部）
+- ノード一覧リスト（中央下部）
+- メニュー（右上）
+- ノード詳細情報登録領域（右側）
+- 説明ページリンク(右下)
+
+#### 012　表示領域の移動
+
+フローの表示領域は、　`スペース＋マウス操作`や、トラックバッドのダブルパットなどで移動することができます。
+
+<image width=400 src="https://res.cloudinary.com/fam-time/image/upload/v1676428674/SPICE/mobearea001_qxciq4.gif">
+
+
+また、フロー表示領域の右下の画面で操作することもできます。
+
+<image width=400 src="https://res.cloudinary.com/fam-time/image/upload/v1676428675/SPICE/mobearea002_f6aamm.gif">
+
+#### 013 表示領域の拡大縮小
+
+フロー表示領域は、`Ctrl(Command)+スクロール`で拡大／縮小させることができます。
+
+<image width=400 src="https://res.cloudinary.com/fam-time/image/upload/v1676428675/SPICE/Zoom001_gje2ys.gif">
+
+また、フロー表示領域の左下の`＋`/`ー`ボタンでも、拡大／縮小させることができます。
+
+<image width=400 src="https://res.cloudinary.com/fam-time/image/upload/v1676428676/SPICE/Zoom002_twkth3.gif">
+
+### 02 Nodeを作る
 
 左側の`食材・調味料ノード`を、右側の空白領域にドラッグ＆ドロップすると、新たな食材ノードが作成されます。
 
@@ -14,13 +49,13 @@
 
 同様の操作で操作ノードも作成することができます。
 
-#### 011 食材を記入する
+#### 021 食材を記入する
 
 食材ノードの編集状態で、食材名を入力します。
 
 <img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1675407265/SPICE/011EditNode_sgwskz.gif">
 
-#### 012　手順ノード（＋Edge）を追加する
+#### 022　手順ノード（＋Edge）を追加する
 
 a.マウスで追加する方法
 
@@ -36,27 +71,27 @@ Node編集中に`Tab`キーを押すと、`+`アイコンが黄色く表示さ�
 
 ---
 
-### 02 Edgeを追加する
+### 03 Edgeを追加する
 
-#### 021 Edgeを追加する
+#### 031 Edgeを追加する
 
 Nodeを選択すると、表示される下の部分に黒い四角■部分にマウスを合わせ、`＋`印にさせ、その状態からドラッグすると、つなげられる部分が青い四角で強調表示されるので、対象までマウスをつなげるてドロップ（クリックを解除）すると、Edgeが追加されます。
 
 <img width="400" src="https://res.cloudinary.com/fam-time/image/upload/v1675687282/SPICE/021MakeEdge02_uaila9.gif">
 
-#### 022 Edgeを削除する
+#### 032 Edgeを削除する
 
 削除したいEdgeの選択（クリック）すると、削除用のゴミ箱アイコンが表示されるので、クリックすると、Edgeを削除できます。
 
 <img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1675744421/SPICE/022DeleteEdge02_hieomn.gif">
 
-#### 023　Edgeの間にNodeを追加する
+#### 033　Edgeの間にNodeを追加する
 
 NodeとNodeの間のEdgeを選択し、`＋`のアイコンをクリックすると、間にNodeが追加されます。
 
 <img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1675744549/SPICE/023AddNodeBetweenEdges02_yxntve.gif">
 
-#### 024　複数の組み合わせ（NodeとEdge）をコピーする
+#### 034　複数の組み合わせ（NodeとEdge）をコピーする
 
 マウスをドラッグ＆ドロップすると、複数の組み合わせ（NodeとEdge）を選択できます。
 その状態で、右クリックするとメニューが表示されるのでコピーを選ぶと、その組み合わせがコピーされます。
@@ -67,8 +102,8 @@ NodeとNodeの間のEdgeを選択し、`＋`のアイコンをクリックする
 
 ---
 
-### 03 Nodeの基本情報を設定する
-#### 031 ノードの区域、作業エリアを設定する
+### 04 Nodeの基本情報を設定する
+#### 041 ノードの区域、作業エリアを設定する
 
 Nodeを選択し、右側の`区域`を選択し、さらに`作業エリア`の中から該当する作業エリアを選択すると、左側にその内容が表示されます。
 
@@ -80,7 +115,7 @@ Nodeを選択し、右側の`区域`を選択し、さらに`作業エリア`の
 <img width="400" src="https://res.cloudinary.com/fam-time/image/upload/v1676015549/SPICE/032EditAreas01_ynsb9h.gif">
 
 
-#### 032 CCPを設定する
+#### 042 CCPを設定する
 
 CCPのNodeを選択し、`重要管理点`を選択状態にすると、CCPとして指定されます。
 
@@ -90,7 +125,7 @@ CCPのNodeを選択し、`重要管理点`を選択状態にすると、CCPと�
 
 <img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1675407263/SPICE/032EditCCP_drbirn.gif">
 
-#### 033　自動採番する
+#### 043　自動採番する
 
 任意のNodeを選択した状態で、右側の`基本情報`タブメニューの中から、一番上のNo.の横の`全体を自動採番する`アイコンをクリックすると、全てのNodeに番号が採番されます。
 
@@ -101,9 +136,9 @@ CCPのNodeを選択し、`重要管理点`を選択状態にすると、CCPと�
 
 ---
 
-### 04　Nodeの危害要因分析を設定する
+### 05　Nodeの危害要因分析を設定する
 
-#### 041　危害要因分析の入力項目【参考情報】
+#### 051　危害要因分析の入力項目【参考情報】
 
 危害要因分析では、それぞれの工程ごとにどのような危害要因が潜んでいるのか分析します。
 
@@ -116,7 +151,7 @@ CCPのNodeを選択し、`重要管理点`を選択状態にすると、CCPと�
 
 (厚生労働省HACCP導入のための手引書より引用)
 
-#### 042　危害要因分析の入力
+#### 052　危害要因分析の入力
 
 Nodeを選択した状態で、右側のメニューから、`危害要因分析`タブを選択してください。
 
@@ -131,19 +166,19 @@ Nodeを選択した状態で、右側のメニューから、`危害要因分析
 
 <img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1675745775/SPICE/042-3FillHAList_kmj0pf.png">
 
-#### 043　危害要因分析データのダウンロード
+#### 053　危害要因分析データのダウンロード
 
 作成した危害要因分析のデータは、要因別（生物的な要因、化学的な要因、物理的な要因）
 
 <img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1675745775/SPICE/043DlHA_u2w9zn.png">
 
-#### 044　危害要因分析データのアップロード
+#### 054　危害要因分析データのアップロード
 
 一度ダウンロードした危害要因分析のデータはアップロードすることができます。
 
 <img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1675745775/SPICE/044UpHA_jiqi1l.png">
 
-#### 045　危害要因分析をExcelダウンロードする
+#### 055　危害要因分析をExcelダウンロードする
 
 右上のExcel↓印のアイコンをクリックすると、危害要因分析の内容をExcel形式でダウンロードすることができます。
 
@@ -151,9 +186,9 @@ Nodeを選択した状態で、右側のメニューから、`危害要因分析
 
 ---
 
-### 05　保存と読み込み
+### 06　保存と読み込み
 
-#### 051 保存する
+#### 061 保存する
 
 右上の↓印の`保存`アイコンをクリックしてください。
 
@@ -161,7 +196,7 @@ Nodeを選択した状態で、右側のメニューから、`危害要因分析
 
 <img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1676007780/SPICE/051Save02_mat0nz.png">
 
-#### 052 保存済みのJsonを読み込む
+#### 062 保存済みのJsonを読み込む
 
 右上の↑印の`読込`アイコンをクリックし、描写させたいファイルを選択してください。
 
@@ -169,7 +204,7 @@ Nodeを選択した状態で、右側のメニューから、`危害要因分析
 
 <img width="300" src="https://res.cloudinary.com/fam-time/image/upload/v1676007780/SPICE/052Open02_gymz0t.png">
 
-#### 053 データをクリアする。
+#### 063 データをクリアする。
 
 右上の`NEW`のアイコンをクリックすると、現在のフローをクリアします。
 事前にファイルに保存しておくことをお勧めします。
