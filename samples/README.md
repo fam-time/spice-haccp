@@ -1,8 +1,10 @@
 # SPiCE for HACCP サンプルフロー
 SPiCE for HACCPを使って、どの様なフローダイアグラムが作成できるかのサンプルを公開しています。
 
-## サンプルファイルの使い方
 サンプルファイル（.spfファイル）をダウンロードし、SPiCE for HACCPから読み込んで利用してください。
+
+## サンプルファイルのダウンロード
+以下のいずれかの方法でサンプルファイルをダウンロードしてください。
 
 ### サンプルファイルのダウンロード方法01
 （ブラウザでGitHubリポジトリを表示している場合）
@@ -25,7 +27,7 @@ SPiCE for HACCPを使って、どの様なフローダイアグラムが作成�
     <img width=300 src="https://res.cloudinary.com/fam-time/image/upload/f_auto,q_auto/v1676413624/SPICE/GitHubFileDownload02_tksi2z.png">
 
 
-### サンプルファイルの開き方
+## サンプルファイルの開き方
 1. SPiCE for HACCPを開きます
 1. 画面右上の`読込`アイコンをクリックします
 1. 対象のファイルを選択して読み込みます
